@@ -31,3 +31,8 @@ li { display: block;
 	padding: 14px 16px;
 	text-transform: 
 }
+
+li a {
+  display: block;
+  width: 60px;
+}
